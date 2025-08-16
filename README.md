@@ -1,14 +1,14 @@
 # Differential Equations in 30 Nights
 
-This project contains nightly lessons and code for learning ODE, PDE, and SDE with real-world applications in biology, computer science, and mathematics.
+This project contains nightly lessons and code for learning **Ordinary Differential Equations (ODE)**, **Partial Differential Equations (PDE)**, and **Stochastic Differential Equations (SDE)** with real-world applications in biology, computer science, and mathematics.
 
 <div dir="rtl">
 
-این پروژه شامل درس‌های شبانه و کد برای یادگیری ODE، PDE و SDE با کاربردهای واقعی در زیست‌شناسی، علوم کامپیوتر و ریاضیات است.
+این پروژه شامل درس‌های شبانه و کد برای یادگیری **معادلات دیفرانسیل معمولی (ODE)**، **معادلات دیفرانسیل با مشتقات جزئی (PDE)** و **معادلات دیفرانسیل تصادفی (SDE)** با کاربردهای واقعی در زیست‌شناسی، علوم کامپیوتر و ریاضیات است.
 
 </div>
 
-Ce projet contient des leçons nocturnes et du code pour apprendre les ODE, PDE et SDE avec des applications réelles en biologie, informatique et mathématiques.
+Ce projet contient des leçons nocturnes et du code pour apprendre les **équations différentielles ordinaires (ODE)**, les **équations différentielles partielles (PDE)** et les **équations différentielles stochastiques (SDE)** avec des applications réelles en biologie, informatique et mathématiques.
 
 ---
 
