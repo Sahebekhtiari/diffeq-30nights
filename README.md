@@ -1,10 +1,14 @@
- # Differential Equations in 30 Nights  
-معادلات دیفرانسیل در ۳۰ شب  
-Équations différentielles en 30 nuits  
+# Differential Equations in 30 Nights
 
-This project contains nightly lessons and code for learning ODE, PDE, and SDE with real-world applications in biology, computer science, and mathematics.  
-این پروژه شامل درس‌های شبانه و کد برای یادگیری ODE، PDE و SDE با کاربردهای واقعی در زیست‌شناسی، علوم کامپیوتر و ریاضیات است.  
-Ce projet contient des leçons nocturnes et du code pour apprendre les ODE, PDE et SDE avec des applications réelles en biologie, informatique et mathématiques.  
+This project contains nightly lessons and code for learning ODE, PDE, and SDE with real-world applications in biology, computer science, and mathematics.
+
+<div dir="rtl">
+
+این پروژه شامل درس‌های شبانه و کد برای یادگیری ODE، PDE و SDE با کاربردهای واقعی در زیست‌شناسی، علوم کامپیوتر و ریاضیات است.
+
+</div>
+
+Ce projet contient des leçons nocturnes et du code pour apprendre les ODE, PDE et SDE avec des applications réelles en biologie, informatique et mathématiques.
 
 ---
 
