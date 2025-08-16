@@ -52,7 +52,7 @@ $$
 \frac{dT}{dt} = -k \cdot (T - T_{env})
 $$  
 
-<div dir="rtl" align="right">
+<div dir="rtl"  >
 
 - $T$: دمای جسم در لحظهٔ $t$  
 - $T_{env}$: دمای محیط (ثابت)  
